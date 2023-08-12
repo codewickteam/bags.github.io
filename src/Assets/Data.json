@@ -1,0 +1,95 @@
+{
+  "instagram":"https://cdn.shopify.com/s/files/1/0696/1011/1257/files/icons8-instagram-48.png?v=1679554184",
+  "slider": [
+    { "id":1,
+      "itemurl": "https://skybags.co.in/cdn/shop/files/Skybags_Homepage-tiles_cityscape_Luggage.jpg?v=1684215393&width=2400",
+      "description": "Weekends"
+    },
+    {
+      "id":2,
+      "itemurl": "https://skybags.co.in/cdn/shop/files/skybags-homepage-banners-luggage.jpg?v=1684156814&width=2400",
+      "description": "Weekends"
+    },
+    {
+      "id":3,
+      "itemurl": "https://skybags.co.in/cdn/shop/files/skybags_homepage_banners_duffle.jpg?v=1684156745&width=2400",
+      "description": "Weekends"
+    },
+    {
+      "id":4,
+      "itemurl": "https://skybags.co.in/cdn/shop/collections/4b_0a82474f-3583-410f-8460-89e5f13b0b29.webp?v=1675942605&width=2400",
+      "description": "Weekends"
+    }
+  ],
+
+  "topickstrending": [
+    {
+      "id": 1,
+      "image": "https://skybags.co.in/cdn/shop/files/2_7ce88aa0-9604-4478-8f1f-f3a1a2b5bb0d_360x.jpg?v=1683176705%20360w,%20//skybags.co.in/cdn/shop/files/2_7ce88aa0-9604-4478-8f1f-f3a1a2b5bb0d_540x.jpg?v=1683176705%20540w,%20//skybags.co.in/cdn/shop/files/2_7ce88aa0-9604-4478-8f1f-f3a1a2b5bb0d_720x.jpg?v=1683176705%20720w,%20//skybags.co.in/cdn/shop/files/2_7ce88aa0-9604-4478-8f1f-f3a1a2b5bb0d_1000x.jpg?v=1683176705%201000w",
+      "description": "Skybags Rubik 1",
+      "reveiw": "4.5",
+      "price": "Rs. 3,999.00",
+      "other": [
+        "https://skybags.co.in/cdn/shop/products/BPCHA01NVY_3_360x.webp?v=1684749979",
+        "https://skybags.co.in/cdn/shop/products/BPCHA01NVY_3_360x.webp?v=1684749979"
+      ]
+    }
+  ],
+
+  "featurestopicksBackpacks": [
+    {
+      "id": 1,
+      "image": "https://skybags.co.in/cdn/shop/files/Raincover_180x.webp?v=1677846080%20180w,%20//skybags.co.in/cdn/shop/files/Raincover_360x.webp?v=1677846080%20360w,%20//skybags.co.in/cdn/shop/files/Raincover_540x.webp?v=1677846080%20540w,%20//skybags.co.in/cdn/shop/files/Raincover_720x.webp?v=1677846080%20720w",
+      "description": "Rain Cover"
+    },
+    {
+      "id": 2,
+      "image": "https://skybags.co.in/cdn/shop/files/Raincover_180x.webp?v=1677846080%20180w,%20//skybags.co.in/cdn/shop/files/Raincover_360x.webp?v=1677846080%20360w,%20//skybags.co.in/cdn/shop/files/Raincover_540x.webp?v=1677846080%20540w,%20//skybags.co.in/cdn/shop/files/Raincover_720x.webp?v=1677846080%20720w",
+      "description": "Rain Cover"
+    },
+    {
+      "id": 3,
+      "image": "https://skybags.co.in/cdn/shop/files/Raincover_180x.webp?v=1677846080%20180w,%20//skybags.co.in/cdn/shop/files/Raincover_360x.webp?v=1677846080%20360w,%20//skybags.co.in/cdn/shop/files/Raincover_540x.webp?v=1677846080%20540w,%20//skybags.co.in/cdn/shop/files/Raincover_720x.webp?v=1677846080%20720w",
+      "description": "Rain Cover"
+    },
+    {
+      "id": 4,
+      "image": "https://skybags.co.in/cdn/shop/files/Raincover_180x.webp?v=1677846080%20180w,%20//skybags.co.in/cdn/shop/files/Raincover_360x.webp?v=1677846080%20360w,%20//skybags.co.in/cdn/shop/files/Raincover_540x.webp?v=1677846080%20540w,%20//skybags.co.in/cdn/shop/files/Raincover_720x.webp?v=1677846080%20720w",
+      "description": "Rain Cover"
+    }
+  ],
+  "features2topicksBackpacks":[
+    {
+      "id": 1,
+      "image": "https://skybags.co.in/cdn/shop/files/Anti-Theft_29f9ac88-2d57-49a7-982b-6b2da1fde2a0_180x.webp?v=1676462790%20180w,%20//skybags.co.in/cdn/shop/files/Anti-Theft_29f9ac88-2d57-49a7-982b-6b2da1fde2a0_360x.webp?v=1676462790%20360w,%20//skybags.co.in/cdn/shop/files/Anti-Theft_29f9ac88-2d57-49a7-982b-6b2da1fde2a0_540x.webp?v=1676462790%20540w,%20//skybags.co.in/cdn/shop/files/Anti-Theft_29f9ac88-2d57-49a7-982b-6b2da1fde2a0_720x.webp?v=1676462790%20720w",
+      "description": "TSA Lock"
+    },
+    {
+      "id": 2,
+      "image": "https://skybags.co.in/cdn/shop/files/Dual_Wheels_bb17d3a1-ad1e-4dd0-8a4a-76835e55ac1a_180x.webp?v=1676462790%20180w,%20//skybags.co.in/cdn/shop/files/Dual_Wheels_bb17d3a1-ad1e-4dd0-8a4a-76835e55ac1a_360x.webp?v=1676462790%20360w,%20//skybags.co.in/cdn/shop/files/Dual_Wheels_bb17d3a1-ad1e-4dd0-8a4a-76835e55ac1a_540x.webp?v=1676462790%20540w,%20//skybags.co.in/cdn/shop/files/Dual_Wheels_bb17d3a1-ad1e-4dd0-8a4a-76835e55ac1a_720x.webp?v=1676462790%20720w",
+      "description": "Anti-Theft"
+    },
+    {
+      "id": 3,
+      "image": "https://skybags.co.in/cdn/shop/files/TSA_Lock_88643311-2e74-48f8-9820-60b7f094c48b_180x.webp?v=1676462790%20180w,%20//skybags.co.in/cdn/shop/files/TSA_Lock_88643311-2e74-48f8-9820-60b7f094c48b_360x.webp?v=1676462790%20360w,%20//skybags.co.in/cdn/shop/files/TSA_Lock_88643311-2e74-48f8-9820-60b7f094c48b_540x.webp?v=1676462790%20540w,%20//skybags.co.in/cdn/shop/files/TSA_Lock_88643311-2e74-48f8-9820-60b7f094c48b_720x.webp?v=1676462790%20720w",
+      "description": "Dual Wheels"
+    },
+    {
+      "id": 4,
+      "image": "https://skybags.co.in/cdn/shop/files/Rain_Cover_02fddbdc-bf74-4a5a-aa40-f4cda456faf6_180x.webp?v=1676462790%20180w,%20//skybags.co.in/cdn/shop/files/Rain_Cover_02fddbdc-bf74-4a5a-aa40-f4cda456faf6_360x.webp?v=1676462790%20360w,%20//skybags.co.in/cdn/shop/files/Rain_Cover_02fddbdc-bf74-4a5a-aa40-f4cda456faf6_540x.webp?v=1676462790%20540w,%20//skybags.co.in/cdn/shop/files/Rain_Cover_02fddbdc-bf74-4a5a-aa40-f4cda456faf6_720x.webp?v=1676462790%20720w",
+      "description": "Rain Cover"
+    }
+  ],
+
+  "banner2topicks":[
+    {
+      "id":1,
+      "image":"https://scontent.cdninstagram.com/v/t51.29350-15/363132568_1025015271838935_929111171690466124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=Hx-1O5sHz4YAX-6iTa7&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAwTw40qDe5RW59cPvkMoXyV0tnjGc_m6Z32RMNw4czEQ&oe=64C80B9D"
+    },
+    {
+      "id":2,
+      "image":"https://scontent.cdninstagram.com/v/t51.29350-15/363497233_267936395867134_6829858433532716664_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=4nX33yY7KKkAX8bq06g&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCl2fAR_zE6Bsqdxn1dPCXskzAasNK4zmmFxCpJ0qy9rA&oe=64C7A557"
+    }
+  ]
+
+}

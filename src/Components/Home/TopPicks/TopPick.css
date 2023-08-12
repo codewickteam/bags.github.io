@@ -1,0 +1,63 @@
+.topCards{
+  display: grid;
+  align-items: center;
+  grid-auto-flow: column;
+  grid-auto-columns: 25%;
+  grid-template-columns: unset; 
+  grid-template-rows: unset;
+  overflow: scroll;
+  cursor: pointer;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+   
+    scrollbar-width: none; /* Firefox scrollbar */
+  -ms-overflow-style: none; /* IE and Edge scrollbar */
+  &::-webkit-scrollbar {
+    width: 0;
+    height: 0;}
+
+  
+    
+}
+
+.topFeatures{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    gap:5rem;
+    
+}
+
+.topPickBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  
+  .topPickBtn > button {
+    background-color: black;
+    color: white;
+    font-size: 1.3rem;
+    cursor: pointer;
+    width: 10rem;
+    height: 3rem;
+   
+  }
+  
+  .topPickBtn > button svg {
+    display: none;
+    fill: white;
+  }
+  
+  .topPickBtn > button:hover svg {
+    display: inline-block;    
+  }
+  
+  
+

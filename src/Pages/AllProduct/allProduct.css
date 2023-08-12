@@ -1,0 +1,9 @@
+.allProductContainer{
+    margin: 0;
+    padding-top: 2rem;
+    background-color: white;
+}
+.allProductCard{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}

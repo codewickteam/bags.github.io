@@ -1,0 +1,16 @@
+.feacture2Container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+    font-weight: 600;
+    
+}
+.feacture2Container>img{
+    width: 10Vw;
+    height: 10Vw;
+    margin: 1rem;
+    border-radius:50%;
+}
